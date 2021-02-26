@@ -1,0 +1,46 @@
+##	10 feature
+##	no dependancy
+##	C = 5
+##	e = 0.5
+##	not using other param	
+
+video1
+--------
+Total = 6455
+Correct = 3600
+Incorrect = 2855
+Accuracy = 55.770720
+minimum Expected = 41.580170
+
+video2
+--------
+Total = 7704
+Correct = 4424
+Incorrect = 3280
+Accuracy = 57.424714
+minimum Expected = 59.151090
+
+video3
+--------
+Total = 6592
+Correct = 3971
+Incorrect = 2621
+Accuracy = 60.239684
+minimum Expected = 40.746359
+
+video4
+--------
+Total = 5537
+Correct = 2985
+Incorrect = 2552
+Accuracy = 53.910060
+minimum Expected = 51.128770
+
+video5
+--------
+Total = 6609
+Correct = 3761
+Incorrect = 2848
+Accuracy = 56.907248
+minimum Expected = 45.105160
+

@@ -1,0 +1,40 @@
+video1
+--------
+Total = 6455
+Correct = 2175
+Incorrect = 4280
+Accuracy = 33.694809
+minimum Expected = 41.580170
+
+video2
+--------
+Total = 7704
+Correct = 5832
+Incorrect = 1872
+Accuracy = 75.700935
+minimum Expected = 59.151089
+
+video3
+--------
+Total = 6592
+Correct = 3380
+Incorrect = 3212
+Accuracy = 51.274269
+minimum Expected = 40.746357
+
+video3
+--------
+Total = 5537
+Correct = 2771
+Incorrect = 2766
+Accuracy = 50.045151
+minimum Expected = 51.128769
+
+video4
+--------
+Total = 6609
+Correct = 3165
+Incorrect = 3444
+Accuracy = 47.889240
+minimum Expected = 45.105160
+

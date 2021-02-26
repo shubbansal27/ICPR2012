@@ -1,0 +1,38 @@
+Class 9
+ tp = 1137    tn = 2154    fp = 619    fn = 1203
+ Precision = 0.647494     Recall = 0.485897     F-measure = 0.555176
+
+Class 1
+ tp = 148    tn = 4878    fp = 0    fn = 87
+ Precision = 1.000000     Recall = 0.629787     F-measure = 0.772846
+
+Class 2
+ tp = 0    tn = 4662    fp = 0    fn = 451
+ Precision = -nan     Recall = 0.000000     F-measure = -nan
+
+Class 3
+ tp = 608    tn = 3900    fp = 237    fn = 368
+ Precision = 0.719527     Recall = 0.622951     F-measure = 0.667765
+
+Class 4
+ tp = 305    tn = 4450    fp = 267    fn = 91
+ Precision = 0.533217     Recall = 0.770202     F-measure = 0.630165
+
+Class 5
+ tp = 715    tn = 3750    fp = 648    fn = 0
+ Precision = 0.524578     Recall = 1.000000     F-measure = 0.688162
+
+Class 6
+ tp = 0    tn = 4842    fp = 271    fn = 0
+ Precision = 0.000000     Recall = -nan     F-measure = -nan
+
+Class 7
+ tp = 0    tn = 5043    fp = 70    fn = 0
+ Precision = 0.000000     Recall = -nan     F-measure = -nan
+
+Class 8
+ tp = 0    tn = 5025    fp = 88    fn = 0
+ Precision = 0.000000     Recall = -nan     F-measure = -nan
+
+
+Average F-score: -nan

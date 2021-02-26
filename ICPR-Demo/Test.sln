@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bottle_salt", "Test\Test.vcxproj", "{A38A2981-9F71-4C0D-946E-EC4454A317EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38A2981-9F71-4C0D-946E-EC4454A317EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A38A2981-9F71-4C0D-946E-EC4454A317EC}.Debug|Win32.Build.0 = Debug|Win32
+		{A38A2981-9F71-4C0D-946E-EC4454A317EC}.Release|Win32.ActiveCfg = Release|Win32
+		{A38A2981-9F71-4C0D-946E-EC4454A317EC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

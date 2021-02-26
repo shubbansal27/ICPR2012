@@ -1,0 +1,42 @@
+##dataset-6
+
+video1
+--------
+Total = 5510
+Correct = 4665
+Incorrect = 845
+Accuracy = 84.664247
+minimum Expected = 55.843920
+
+video2
+--------
+Total = 4341
+Correct = 2707
+Incorrect = 1634
+Accuracy = 62.358903
+minimum Expected = 24.395301
+
+video3
+--------
+Total = 5217
+Correct = 3199
+Incorrect = 2018
+Accuracy = 61.318766
+minimum Expected = 31.416523
+
+video4
+--------
+Total = 6494
+Correct = 2706
+Incorrect = 3788
+Accuracy = 41.669233
+minimum Expected = 32.599322
+
+video5
+--------
+Total = 5162
+Correct = 2987
+Incorrect = 2175
+Accuracy = 57.865169
+minimum Expected = 26.520728
+
